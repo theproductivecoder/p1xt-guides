@@ -1,4 +1,4 @@
-# Computer Science and Programming - Version 4.0
+# Computer Science and Programming - Version 4.0 - theproductivecoder version
 
 Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
 
@@ -11,7 +11,6 @@ Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./p
 If you want to develop the skills necessary to be 'job ready' for a junior developer position - complete tier X, 0, and 1.
 
 - [tier X - Math Prep](#tier-x---math-prep)
-- [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
 - [tier 0 - Programming Prep](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
 - [tier 1 - Getting Started](#tier-1---getting-started)
 
@@ -62,36 +61,40 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 ### Tier X - Math Prep
 
-Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)
+Work through Khan Academy alongside tier 0 and tier 1. 2 hours a day. Aim to have the below four courses complete before Tier 2 begins.
+
+Work through a mixture of [Get Ready Courses](https://www.khanacademy.org/math/get-ready-courses) and [K-8th Grade](https://www.khanacademy.org/math/k-8-grades). Order below.
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
+| [Kindergarten - 2nd Grade](https://www.khanacademy.org/math/early-math)         |In progress        |
+| [Get ready for 3rd grade](https://www.khanacademy.org/math/get-ready-for-3rd-grade)         |        |
+| [3rd Grade](https://www.khanacademy.org/math/cc-third-grade-math)         |        |
+| [Get ready for 4th grade](https://www.khanacademy.org/math/get-ready-for-4th-grade)         |        |
+| [4th Grade](https://www.khanacademy.org/math/cc-fourth-grade-math)         |        |
+| [Get ready for 5th grade](https://www.khanacademy.org/math/get-ready-for-5th-grade)         |        |
+| [5th Grade](https://www.khanacademy.org/math/cc-fifth-grade-math)         |        |
+| [Get ready for 6th grade](https://www.khanacademy.org/math/get-ready-for-6th-grade)         |        |
+| [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)         |        |
+| [Get ready for 7th grade](https://www.khanacademy.org/math/get-ready-for-7th-grade)         |        |
+| [7th Grade](https://www.khanacademy.org/math/cc-seventh-grade-math)         |        |
+| [Get ready for 8th grade](https://www.khanacademy.org/math/get-ready-for-8th-grade)         |        |
+| [8th Grade](https://www.khanacademy.org/math/cc-eighth-grade-math)         |        |
+| [Get ready for Algebra 1](https://www.khanacademy.org/math/get-ready-courses/get-ready-for-algebra-i)         |        |
 | [Algebra I](https://www.khanacademy.org/math/algebra)         |        |
+| [Get ready for Algebra 2](https://www.khanacademy.org/math/get-ready-courses/get-ready-for-algebra-ii)         |        |
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
+| [Get ready for Precalculus](https://www.khanacademy.org/math/get-ready-courses/get-ready-for-precalculus)         |        |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
-
-### Tier X - Programming Prep Prep
-
-A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
-
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |            |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
-
+      |
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
+| Welcome To Coding                                                                                                                                                     |In Progress            |              |
 | Full Stack Online - Intro to Programming                                                                                                                              |            |              |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
