@@ -65,6 +65,40 @@ Work through Khan Academy alongside tier 0 and tier 1. 2 hours a day. Aim to hav
 
 Work through a mixture of [Get Ready Courses](https://www.khanacademy.org/math/get-ready-courses) and [K-8th Grade](https://www.khanacademy.org/math/k-8-grades). Order below.
 
+## The Productive Coder - List of courses and things to do, in order!
+
+Work through the math section in conjunction with the computer science section. 
+
+### Math
+
+| Name | Tier | Status | Evidence | Type | Comments |
+| :---: | :----: | :----: | :------: | :---: | :------: |
+| [Kindergarten - 2nd Grade](https://www.khanacademy.org/math/early-math) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+
+### Programming / Computer Science
+
+| Name | Tier | Status | Evidence | Type | Comments |
+| :---: | :----: | :----: | :------: | :---: | :------: |
+| [Kindergarten - 2nd Grade](https://www.khanacademy.org/math/early-math) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+
+---------
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
 | [Kindergarten - 2nd Grade](https://www.khanacademy.org/math/early-math)         |In progress        |
