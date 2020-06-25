@@ -2,8 +2,6 @@
 
 This is a slimmed down verison of the guide from P1xt seen [here](https://github.com/P1xt/p1xt-guides/). I've tried to make this as easy to follow as possible, to stop myself from feeling overwhelmed.
 
-Please read the [FAQ](./faq.md) and note that there are  to help you select projects.
-
 ## Useful Links
 
 - [FAQ](./faq.md)
