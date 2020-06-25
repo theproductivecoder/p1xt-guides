@@ -74,16 +74,24 @@ Work through the math section in conjunction with the computer science section.
 | Name | Tier | Status | Evidence | Type | Comments |
 | :---: | :----: | :----: | :------: | :---: | :------: |
 | [Kindergarten - 2nd Grade](https://www.khanacademy.org/math/early-math) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
-|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
-|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
-|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
-|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
-|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
-|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
-|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
-|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
-|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
-|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [Get ready for 3rd grade](https://www.khanacademy.org/math/get-ready-for-3rd-grade) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [3rd Grade](https://www.khanacademy.org/math/cc-third-grade-math) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [Get ready for 4th grade](https://www.khanacademy.org/math/get-ready-for-4th-grade) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [4th Grade](https://www.khanacademy.org/math/cc-fourth-grade-math) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [Get ready for 5th grade](https://www.khanacademy.org/math/get-ready-for-5th-grade) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [5th Grade](https://www.khanacademy.org/math/cc-fifth-grade-math) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [Get ready for 6th grade](https://www.khanacademy.org/math/get-ready-for-6th-grade) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [Get ready for 7th grade](https://www.khanacademy.org/math/get-ready-for-7th-grade) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [7th Grade](https://www.khanacademy.org/math/cc-seventh-grade-math) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [Get ready for 8th grade](https://www.khanacademy.org/math/get-ready-for-8th-grade) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [8th Grade](https://www.khanacademy.org/math/cc-eighth-grade-math) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [Get ready for Algebra 1](https://www.khanacademy.org/math/get-ready-courses/get-ready-for-algebra-i) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [Algebra I](https://www.khanacademy.org/math/algebra) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [Get ready for Algebra 2](https://www.khanacademy.org/math/get-ready-courses/get-ready-for-algebra-ii) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [Get ready for Precalculus](https://www.khanacademy.org/math/get-ready-courses/get-ready-for-precalculus) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+| [Precalculus](https://www.khanacademy.org/math/precalculus) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
 |  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
 |  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
 |  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
@@ -91,37 +99,15 @@ Work through the math section in conjunction with the computer science section.
 |  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
 |  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
 
+      
 ### Programming / Computer Science
 
 | Name | Tier | Status | Evidence | Type | Comments |
 | :---: | :----: | :----: | :------: | :---: | :------: |
-| [Kindergarten - 2nd Grade](https://www.khanacademy.org/math/early-math) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
-|  | Tier X - Pre-Junior Developer | In progress |  | Course |  |
+|  |  |  |  |  |  |
 
 ---------
-| Courses                                                       | Status | Evidence |
-| :------------------------------------------------------------ | :----: | :------: |
-| [Kindergarten - 2nd Grade](https://www.khanacademy.org/math/early-math)         |In progress        |
-| [Get ready for 3rd grade](https://www.khanacademy.org/math/get-ready-for-3rd-grade)         |        |
-| [3rd Grade](https://www.khanacademy.org/math/cc-third-grade-math)         |        |
-| [Get ready for 4th grade](https://www.khanacademy.org/math/get-ready-for-4th-grade)         |        |
-| [4th Grade](https://www.khanacademy.org/math/cc-fourth-grade-math)         |        |
-| [Get ready for 5th grade](https://www.khanacademy.org/math/get-ready-for-5th-grade)         |        |
-| [5th Grade](https://www.khanacademy.org/math/cc-fifth-grade-math)         |        |
-| [Get ready for 6th grade](https://www.khanacademy.org/math/get-ready-for-6th-grade)         |        |
-| [6th Grade](https://www.khanacademy.org/math/cc-sixth-grade-math)         |        |
-| [Get ready for 7th grade](https://www.khanacademy.org/math/get-ready-for-7th-grade)         |        |
-| [7th Grade](https://www.khanacademy.org/math/cc-seventh-grade-math)         |        |
-| [Get ready for 8th grade](https://www.khanacademy.org/math/get-ready-for-8th-grade)         |        |
-| [8th Grade](https://www.khanacademy.org/math/cc-eighth-grade-math)         |        |
-| [Get ready for Algebra 1](https://www.khanacademy.org/math/get-ready-courses/get-ready-for-algebra-i)         |        |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |        |
-| [Get ready for Algebra 2](https://www.khanacademy.org/math/get-ready-courses/get-ready-for-algebra-ii)         |        |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
-| [Get ready for Precalculus](https://www.khanacademy.org/math/get-ready-courses/get-ready-for-precalculus)         |        |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
-      |
+
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
