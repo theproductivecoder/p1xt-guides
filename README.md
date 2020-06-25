@@ -111,7 +111,7 @@ When I've completed a tier (e.g. Tier 1 - Junior Developer), I should be in the 
 | :---: | :----: | :----: | :------: | :---: | :------: |
 | [App Academy Open Full Stack Bootcamp](https://open.appacademy.io/) | Tier 0 - Web Development | In progress |  | Course |  |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | Tier 0 - Web Development |  |  | Capstone |  |
-| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Tier 1 - Junior Developer |  | Course |  |  |
+| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Tier 1 - Junior Developer |  |  | Course |  |
 | [MDN HTML - Advanced topics](https://developer.mozilla.org/en-US/docs/Web/HTML#Advanced_topics) | Tier 1 - Junior Developer |  |  | Reading |  |
 | [MDN CSS - Reference - Key Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS#Reference) | Tier 1 - Junior Developer |  |  | Reading |  |
 | [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) | Tier 1 - Junior Developer |  |  | Course |  |
@@ -120,13 +120,15 @@ When I've completed a tier (e.g. Tier 1 - Junior Developer), I should be in the 
 | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20&%20going/README.md#you-dont-know-js-up--going) | Tier 1 - Junior Developer |  |  | Reading |  |
 | [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) | Tier 1 - Junior Developer |  |  | Reading |  |
 | [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) | Tier 1 - Junior Developer |  |  | Reading |  |
+| Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/)  | Tier 1 - Junior Developer |  |  | Practice |  |
+| Complete [Google Kick Start 2018](https://codingcompetitions.withgoogle.com/kickstart/archive/2018) | Tier 1 - Junior Developer |  |  | Practice |  |
 | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Tier 1 - Junior Developer |  |  | Course |  |
 | [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Tier 1 - Junior Developer |  |  | Course |  |
-| [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) | Tier 1 - Junior Developer |  | Course |  |  |
-|  | Tier 1 - Junior Developer |  |  |  |  |
-|  | Tier 1 - Junior Developer |  |  |  |  |
-|  | Tier 1 - Junior Developer |  |  |  |  |
-|  | Tier 1 - Junior Developer |  |  |  |  |
+| [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) | Tier 1 - Junior Developer |  |  | Course |  |
+| [How to contribute to open source](https://opensource.guide/how-to-contribute/) | Tier 1 - Junior Developer |  |  | Reading |  |
+| Tier Programming Project - Clone Twitter(https://www.twitter.com/)  | Tier 1 - Junior Developer |  |  | Practice |  |
+| Tier Programming Project - Create your own portfolio website | Tier 1 - Junior Developer |  |  | Practice |  |
+| Complete a specialization - [Open Source Contributions Specialization](https://github.com/theproductivecoder/p1xt-guides/blob/master/specializations/open_source.md) | Tier 1 - Junior Developer |  |  | Specialization |  |
 
 ---------          |
 
@@ -135,8 +137,8 @@ When I've completed a tier (e.g. Tier 1 - Junior Developer), I should be in the 
 Deepen understanding of Web Development and begin learning Computer Science topics
 
 | **Practice**                                                                                                                                                                                                                                                                                                                                                   | **Status** | **Evidence** |
-| Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/)                                                                                                                                                                                                                                                                                 |            |
-| Complete [Google Kick Start 2018](https://codingcompetitions.withgoogle.com/kickstart/archive/2018)                                                                                                                                                                                                                                                            |            |
+|                                                                                                                                                                                                                                                                                 |            |
+|                                                                                                                                                                                                                                                             |            |
 | Tier Programming Project                                                                                                                                                                                                                                                                                                                                       |            |
 | Tier Programming Project                                                                                                                                                                                                                                                                                                                                       |            |
 | **Specialization**                                                                                                                                                                                                                                                                                                                                             | **Status** | **Evidence** |
