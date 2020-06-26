@@ -33,6 +33,7 @@ Work through the math section in conjunction with the computer science section. 
 | [Get ready for Algebra 1](https://www.khanacademy.org/math/get-ready-courses/get-ready-for-algebra-i) | Tier X - Pre-Junior Developer |  |  | Course |  |
 | [Algebra I](https://www.khanacademy.org/math/algebra) | Tier X - Pre-Junior Developer |  |  | Course |  |
 | [Get ready for Algebra 2](https://www.khanacademy.org/math/get-ready-courses/get-ready-for-algebra-ii) | Tier X - Pre-Junior Developer |  |  | Course |  |
+| [Algebra II](https://www.khanacademy.org/math/algebra2) | Tier X - Pre-Junior Developer |  |  | Course |  |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) | Tier X - Pre-Junior Developer |  |  | Course |  |
 | [Get ready for Precalculus](https://www.khanacademy.org/math/get-ready-courses/get-ready-for-precalculus) | Tier X - Pre-Junior Developer |  |  | Course |  |
 | [Precalculus](https://www.khanacademy.org/math/precalculus) | Tier X - Pre-Junior Developer |  |  | Course |  |
