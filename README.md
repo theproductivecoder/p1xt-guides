@@ -64,7 +64,7 @@ When I've completed a tier (e.g. Tier 1 - Junior Developer), I should be in the 
 | [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) | Tier 1 - Junior Developer |  |  | Course |  |
 | [How to contribute to open source](https://opensource.guide/how-to-contribute/) | Tier 1 - Junior Developer |  |  | Reading |  |
 | Tier Programming Project - Clone Twitter(https://www.twitter.com/)  | Tier 1 - Junior Developer |  |  | Practice |  |
-| Tier Programming Project - Create your own portfolio website | Tier 1 - Junior Developer |  |  | Practice |  |
+| Tier Programming Project - Create a productivity tracking site (to-do lists etc.) | Tier 1 - Junior Developer |  |  | Practice |  |
 | Complete a specialization - [Open Source Contributions Specialization](https://github.com/theproductivecoder/p1xt-guides/blob/master/specializations/open_source.md) | Tier 1 - Junior Developer |  |  | Specialization |  |
 
 When here, start looking for Junior Developer positions. Also check [P1xt's guide](https://github.com/P1xt/p1xt-guides/blob/master/README.md) and update lists for Tier 2.
