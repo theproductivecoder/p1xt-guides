@@ -19,9 +19,9 @@ Work through the math section in conjunction with the computer science section. 
 | :---: | :----: | :----: | :------: | :---: | :------: |
 | [Kindergarten - 2nd Grade](https://www.khanacademy.org/math/early-math) | Tier X - Pre-Junior Developer | Complete |  | Course |  |
 | [Get ready for 3rd grade](https://www.khanacademy.org/math/get-ready-for-3rd-grade) | Tier X - Pre-Junior Developer | Complete |  | Course |  |
-| [3rd Grade](https://www.khanacademy.org/math/cc-third-grade-math) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
-| [Get ready for 4th grade](https://www.khanacademy.org/math/get-ready-for-4th-grade) | Tier X - Pre-Junior Developer |  |  | Course |  |
-| [4th Grade](https://www.khanacademy.org/math/cc-fourth-grade-math) | Tier X - Pre-Junior Developer |  |  | Course |  |
+| [3rd Grade](https://www.khanacademy.org/math/cc-third-grade-math) | Tier X - Pre-Junior Developer | Complete |  | Course |  |
+| [Get ready for 4th grade](https://www.khanacademy.org/math/get-ready-for-4th-grade) | Tier X - Pre-Junior Developer | Complete |  | Course |  |
+| [4th Grade](https://www.khanacademy.org/math/cc-fourth-grade-math) | Tier X - Pre-Junior Developer | In progress |  | Course |  |
 | [Get ready for 5th grade](https://www.khanacademy.org/math/get-ready-for-5th-grade) | Tier X - Pre-Junior Developer |  |  | Course |  |
 | [5th Grade](https://www.khanacademy.org/math/cc-fifth-grade-math) | Tier X - Pre-Junior Developer |  |  | Course |  |
 | [Get ready for 6th grade](https://www.khanacademy.org/math/get-ready-for-6th-grade) | Tier X - Pre-Junior Developer |  |  | Course |  |
