@@ -47,7 +47,7 @@ When I've completed a tier (e.g. Tier 1 - Junior Developer), I should be in the 
 
 | Name | Tier | Status | Evidence | Type | Comments |
 | :---: | :----: | :----: | :------: | :---: | :------: |
-| [App Academy Open Full Stack Bootcamp](https://open.appacademy.io/) | Tier 0 - Web Development | In progress |  | Course |  |
+| [App Academy Open Full Stack Bootcamp](./specializations/app_academy_open.md) | Tier 0 - Web Development | In progress |  | Course |  |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | Tier 0 - Web Development |  |  | Capstone |  |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Tier 1 - Junior Developer |  |  | Course |  |
 | [MDN HTML - Advanced topics](https://developer.mozilla.org/en-US/docs/Web/HTML#Advanced_topics) | Tier 1 - Junior Developer |  |  | Reading |  |
